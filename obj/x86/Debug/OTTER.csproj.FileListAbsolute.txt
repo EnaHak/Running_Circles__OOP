@@ -1,0 +1,162 @@
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\backgrounds\back.jpg
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\backgrounds\space2.jpg
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\elf.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\fireCracker.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\gift.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\ginger.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\santa.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.exe.config
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.xml
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.BGL.resources
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\sky.jpg
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\angel.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\devil.png
+C:\Users\Ena\Desktop\PROJEKTT\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\angel.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\devil.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\sky.jpg
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\josko\Downloads\noviprojekt\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\OTTER.xml
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\OTTER.exe
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Ena\Desktop\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.xml
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.exe
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\devilll.png
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\sprites\devilll.png
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\OTTER.xml
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\OTTER.exe
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\OTTER.pdb
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\josko\Downloads\Anđeli\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\backgrounds\sky.jpg
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\backgrounds\sky.jpg
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\sprites\devilll.png
+C:\Users\Ena\Desktop\Anđeli\OTTER\bin\Debug\backgrounds\sky.jpg
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\devilll.png
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\Picture2.png
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\backgrounds\sky.jpg
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.xml
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.exe
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\OTTER.pdb
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\EASY.png
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\HARD.png
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\PLAY.png
+C:\Users\josko\Downloads\PROJEKTT\Anđeli\OTTER\bin\Debug\backgrounds\white.jpg
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\backgrounds\white.jpg
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\trava.jpg
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\backgrounds\white.jpg
+C:\Users\josko\Downloads\Anđeli\OTTER\bin\Debug\sprites\trava.jpg
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\EASY.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\andeoispis.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\circle.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\coin.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\devilispis.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\HARD.png
+C:\Users\Ena\Desktop\PROJEKTT\Anđeli\OTTER\bin\Debug\sprites\PLAY.png
